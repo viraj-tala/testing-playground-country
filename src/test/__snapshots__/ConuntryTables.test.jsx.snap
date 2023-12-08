@@ -1,0 +1,705 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CountriesTable should match the snapshot 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          class="relative m-10 overflow-x-auto shadow-md sm:rounded-lg"
+        >
+          <table
+            class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400"
+            role="table"
+          >
+            <thead
+              class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400"
+            >
+              <tr>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  Flag
+                </th>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  <button
+                    class="flex items-center"
+                  >
+                    <div>
+                      Name
+                    </div>
+                  </button>
+                </th>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  <button
+                    class="flex items-center"
+                  >
+                    <div>
+                      Population
+                    </div>
+                  </button>
+                </th>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  <button
+                    class="flex items-center"
+                  >
+                    <div>
+                      Area (km
+                      <sup
+                        style="font-size: 0.75rem;"
+                      >
+                        2
+                      </sup>
+                      )
+                    </div>
+                  </button>
+                </th>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  <button
+                    class="flex items-center"
+                  >
+                    <div>
+                      Region
+                    </div>
+                  </button>
+                </th>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  <button
+                    class="flex items-center"
+                  >
+                    <div>
+                      Subregion
+                    </div>
+                  </button>
+                </th>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  <div>
+                    Details
+                  </div>
+                </th>
+              </tr>
+            </thead>
+            <tbody
+              class="overflow-auto"
+            >
+              <tr
+                class="row pb-10"
+                role="row"
+              >
+                <td
+                  class="pl-3 "
+                >
+                  <img
+                    alt="Country1"
+                    class="h-20 w-30 rounded"
+                    src="flag1.svg"
+                  />
+                </td>
+                <td
+                  class="pl-3"
+                >
+                  Country1
+                </td>
+                <td
+                  class="pl-7"
+                >
+                  1000000
+                </td>
+                <td
+                  class="pl-6"
+                >
+                  500000
+                </td>
+                <td
+                  class="pl-7"
+                >
+                  Region1
+                </td>
+                <td
+                  class="pl-3"
+                >
+                  0
+                </td>
+                <td
+                  class="pl-8 hover:text-blue-500"
+                >
+                  <div
+                    class="relative inline-block"
+                  >
+                    <div
+                      class="group relative"
+                    >
+                      <div
+                        class="opacity-0 invisible group-hover:opacity-100 group-hover:visible absolute z-10 bg-slate-800 text-white py-2 px-4 rounded-md text-center whitespace-nowrap top-full left-1/2 transform -translate-x-1/2"
+                      >
+                        More Info
+                      </div>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr
+                class="row pb-10"
+                role="row"
+              >
+                <td
+                  class="pl-3 "
+                >
+                  <img
+                    alt="Country2"
+                    class="h-20 w-30 rounded"
+                    src="flag2.svg"
+                  />
+                </td>
+                <td
+                  class="pl-3"
+                >
+                  Country2
+                </td>
+                <td
+                  class="pl-7"
+                >
+                  1500000
+                </td>
+                <td
+                  class="pl-6"
+                >
+                  300000
+                </td>
+                <td
+                  class="pl-7"
+                >
+                  Region2
+                </td>
+                <td
+                  class="pl-3"
+                >
+                  0
+                </td>
+                <td
+                  class="pl-8 hover:text-blue-500"
+                >
+                  <div
+                    class="relative inline-block"
+                  >
+                    <div
+                      class="group relative"
+                    >
+                      <div
+                        class="opacity-0 invisible group-hover:opacity-100 group-hover:visible absolute z-10 bg-slate-800 text-white py-2 px-4 rounded-md text-center whitespace-nowrap top-full left-1/2 transform -translate-x-1/2"
+                      >
+                        More Info
+                      </div>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div>
+        <div
+          class="relative m-10 overflow-x-auto shadow-md sm:rounded-lg"
+        >
+          <table
+            class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400"
+            role="table"
+          >
+            <thead
+              class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400"
+            >
+              <tr>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  Flag
+                </th>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  <button
+                    class="flex items-center"
+                  >
+                    <div>
+                      Name
+                    </div>
+                  </button>
+                </th>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  <button
+                    class="flex items-center"
+                  >
+                    <div>
+                      Population
+                    </div>
+                  </button>
+                </th>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  <button
+                    class="flex items-center"
+                  >
+                    <div>
+                      Area (km
+                      <sup
+                        style="font-size: 0.75rem;"
+                      >
+                        2
+                      </sup>
+                      )
+                    </div>
+                  </button>
+                </th>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  <button
+                    class="flex items-center"
+                  >
+                    <div>
+                      Region
+                    </div>
+                  </button>
+                </th>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  <button
+                    class="flex items-center"
+                  >
+                    <div>
+                      Subregion
+                    </div>
+                  </button>
+                </th>
+                <th
+                  class="px-6 py-3"
+                  scope="col"
+                >
+                  <div>
+                    Details
+                  </div>
+                </th>
+              </tr>
+            </thead>
+            <tbody
+              class="overflow-auto"
+            >
+              <tr
+                class="row pb-10"
+                role="row"
+              >
+                <td
+                  class="pl-3 "
+                >
+                  <img
+                    alt="Country1"
+                    class="h-20 w-30 rounded"
+                    src="flag1.svg"
+                  />
+                </td>
+                <td
+                  class="pl-3"
+                >
+                  Country1
+                </td>
+                <td
+                  class="pl-7"
+                >
+                  1000000
+                </td>
+                <td
+                  class="pl-6"
+                >
+                  500000
+                </td>
+                <td
+                  class="pl-7"
+                >
+                  Region1
+                </td>
+                <td
+                  class="pl-3"
+                >
+                  0
+                </td>
+                <td
+                  class="pl-8 hover:text-blue-500"
+                >
+                  <div
+                    class="relative inline-block"
+                  >
+                    <div
+                      class="group relative"
+                    >
+                      <div
+                        class="opacity-0 invisible group-hover:opacity-100 group-hover:visible absolute z-10 bg-slate-800 text-white py-2 px-4 rounded-md text-center whitespace-nowrap top-full left-1/2 transform -translate-x-1/2"
+                      >
+                        More Info
+                      </div>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr
+                class="row pb-10"
+                role="row"
+              >
+                <td
+                  class="pl-3 "
+                >
+                  <img
+                    alt="Country2"
+                    class="h-20 w-30 rounded"
+                    src="flag2.svg"
+                  />
+                </td>
+                <td
+                  class="pl-3"
+                >
+                  Country2
+                </td>
+                <td
+                  class="pl-7"
+                >
+                  1500000
+                </td>
+                <td
+                  class="pl-6"
+                >
+                  300000
+                </td>
+                <td
+                  class="pl-7"
+                >
+                  Region2
+                </td>
+                <td
+                  class="pl-3"
+                >
+                  0
+                </td>
+                <td
+                  class="pl-8 hover:text-blue-500"
+                >
+                  <div
+                    class="relative inline-block"
+                  >
+                    <div
+                      class="group relative"
+                    >
+                      <div
+                        class="opacity-0 invisible group-hover:opacity-100 group-hover:visible absolute z-10 bg-slate-800 text-white py-2 px-4 rounded-md text-center whitespace-nowrap top-full left-1/2 transform -translate-x-1/2"
+                      >
+                        More Info
+                      </div>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        class="relative m-10 overflow-x-auto shadow-md sm:rounded-lg"
+      >
+        <table
+          class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400"
+          role="table"
+        >
+          <thead
+            class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400"
+          >
+            <tr>
+              <th
+                class="px-6 py-3"
+                scope="col"
+              >
+                Flag
+              </th>
+              <th
+                class="px-6 py-3"
+                scope="col"
+              >
+                <button
+                  class="flex items-center"
+                >
+                  <div>
+                    Name
+                  </div>
+                </button>
+              </th>
+              <th
+                class="px-6 py-3"
+                scope="col"
+              >
+                <button
+                  class="flex items-center"
+                >
+                  <div>
+                    Population
+                  </div>
+                </button>
+              </th>
+              <th
+                class="px-6 py-3"
+                scope="col"
+              >
+                <button
+                  class="flex items-center"
+                >
+                  <div>
+                    Area (km
+                    <sup
+                      style="font-size: 0.75rem;"
+                    >
+                      2
+                    </sup>
+                    )
+                  </div>
+                </button>
+              </th>
+              <th
+                class="px-6 py-3"
+                scope="col"
+              >
+                <button
+                  class="flex items-center"
+                >
+                  <div>
+                    Region
+                  </div>
+                </button>
+              </th>
+              <th
+                class="px-6 py-3"
+                scope="col"
+              >
+                <button
+                  class="flex items-center"
+                >
+                  <div>
+                    Subregion
+                  </div>
+                </button>
+              </th>
+              <th
+                class="px-6 py-3"
+                scope="col"
+              >
+                <div>
+                  Details
+                </div>
+              </th>
+            </tr>
+          </thead>
+          <tbody
+            class="overflow-auto"
+          >
+            <tr
+              class="row pb-10"
+              role="row"
+            >
+              <td
+                class="pl-3 "
+              >
+                <img
+                  alt="Country1"
+                  class="h-20 w-30 rounded"
+                  src="flag1.svg"
+                />
+              </td>
+              <td
+                class="pl-3"
+              >
+                Country1
+              </td>
+              <td
+                class="pl-7"
+              >
+                1000000
+              </td>
+              <td
+                class="pl-6"
+              >
+                500000
+              </td>
+              <td
+                class="pl-7"
+              >
+                Region1
+              </td>
+              <td
+                class="pl-3"
+              >
+                0
+              </td>
+              <td
+                class="pl-8 hover:text-blue-500"
+              >
+                <div
+                  class="relative inline-block"
+                >
+                  <div
+                    class="group relative"
+                  >
+                    <div
+                      class="opacity-0 invisible group-hover:opacity-100 group-hover:visible absolute z-10 bg-slate-800 text-white py-2 px-4 rounded-md text-center whitespace-nowrap top-full left-1/2 transform -translate-x-1/2"
+                    >
+                      More Info
+                    </div>
+                  </div>
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="row pb-10"
+              role="row"
+            >
+              <td
+                class="pl-3 "
+              >
+                <img
+                  alt="Country2"
+                  class="h-20 w-30 rounded"
+                  src="flag2.svg"
+                />
+              </td>
+              <td
+                class="pl-3"
+              >
+                Country2
+              </td>
+              <td
+                class="pl-7"
+              >
+                1500000
+              </td>
+              <td
+                class="pl-6"
+              >
+                300000
+              </td>
+              <td
+                class="pl-7"
+              >
+                Region2
+              </td>
+              <td
+                class="pl-3"
+              >
+                0
+              </td>
+              <td
+                class="pl-8 hover:text-blue-500"
+              >
+                <div
+                  class="relative inline-block"
+                >
+                  <div
+                    class="group relative"
+                  >
+                    <div
+                      class="opacity-0 invisible group-hover:opacity-100 group-hover:visible absolute z-10 bg-slate-800 text-white py-2 px-4 rounded-md text-center whitespace-nowrap top-full left-1/2 transform -translate-x-1/2"
+                    >
+                      More Info
+                    </div>
+                  </div>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
